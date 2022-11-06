@@ -1,0 +1,7 @@
+현재 서버주소는 www.clomend.shop이며 ip주소는 43.201.120.136:3001입니다.
+
+aws rds 사용자: root, 비번: root12345 이며
+db엔드포인트는 clomend-db.cagsssechicl.ap-northeast-2.rds.amazonaws.com 입니다.
+
+어떤 정보가 필요하실지 모르겠어서 일단 기본적인 서버 정보들 첨부하였습니다.
+(추가적으로 ec2에서 생성한 키페어 .ppk도 첨부하겠습니다.)
